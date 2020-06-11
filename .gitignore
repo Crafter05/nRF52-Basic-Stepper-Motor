@@ -1,0 +1,5 @@
+*.emSession
+*.jlink
+*.bak
+/Output
+/Nordic_Resources
